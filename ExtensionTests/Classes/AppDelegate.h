@@ -42,3 +42,4 @@ public:
 #endif // _APP_DELEGATE_H_
 
 //kiet le local
+//kiet le server
